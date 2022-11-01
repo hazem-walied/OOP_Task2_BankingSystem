@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1667234813 source:d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\src\bankaccount.cpp
+	<bits/stdc++.h>
+	"BankAccount.h"
+
+1667234802 d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\include\bankaccount.h
+	<bits/stdc++.h>
+
+1667234842 source:d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\src\client.cpp
+	<bits/stdc++.h>
+	"Client.h"
+	"BankAccount.h"
+
+1667234831 d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\include\client.h
+	"BankAccount.h"
+
+1667234826 source:d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\src\savingsbankaccount.cpp
+	<bits/stdc++.h>
+	"SavingsBankAccount.h"
+
+1667234818 d:\fcai\year_2\oop\assignments\assignment_2\a2_task2_groupa_20210118_20210144_20210854\include\savingsbankaccount.h
+	"BankAccount.h"
+

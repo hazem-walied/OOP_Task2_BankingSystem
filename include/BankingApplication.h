@@ -1,10 +1,17 @@
+#include <bits/stdc++.h>
 #ifndef BANKINGAPPLICATION_H
 #define BANKINGAPPLICATION_H
 
 
 class BankingApplication
 {
-    /// the header of the BankingApplication class (MAIN of the program) goes here
+    public:
+        BankingApplication();
+        virtual ~BankingApplication();
+
+    protected:
+
+    private:
 };
 
 #endif // BANKINGAPPLICATION_H

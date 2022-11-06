@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
     BankingApplication b1;
+    b1.run();
 //    BankAccount b1(2000);
 //    BankAccount * b1_ptr = &b1;
     //Client c1;

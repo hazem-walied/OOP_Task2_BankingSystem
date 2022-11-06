@@ -7,7 +7,12 @@ using namespace std;
 
 BankingApplication::BankingApplication()
 {
-    int ans, choice, amount, return_val;
+
+}
+
+void BankingApplication::run()
+{
+     int ans, choice, amount, return_val;
     double balancee;
     char id_num = '1';
     string name, address, phone,id, id_search;

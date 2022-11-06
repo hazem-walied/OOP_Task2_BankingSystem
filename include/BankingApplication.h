@@ -8,6 +8,7 @@ class BankingApplication
     public:
         BankingApplication();
         virtual ~BankingApplication();
+        void run();
 
     protected:
 
